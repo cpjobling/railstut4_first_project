@@ -19,3 +19,10 @@
 .ruby-gemset
 .ruby-version
 .idea
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
